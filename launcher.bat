@@ -1,1 +1,0 @@
-"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe" --remote-debugging-port=9222 --user-data-dir="%appdata%\Local\BraveSoftware\Brave-Browser\User Data\Default"
