@@ -1,3 +1,7 @@
+> **☕ Support my work**
+>
+> If this project has helped you, consider supporting my work on [**Buy Me a Coffee**](https://buymeacoffee.com/j6oiubzfnh).
+
 # BraveBrowserAutomation  
 This repo [Youtube Tutorial](https://youtu.be/N3Nqq4Rl9sE)  
 
